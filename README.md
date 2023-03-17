@@ -33,3 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
+Netlify link - https://velvety-faloodeh-e18af9.netlify.app/
